@@ -1,2 +1,2 @@
-# Simple Transition Between Multiple Components
+# Simple Vue Transition Between Multiple Components
 
